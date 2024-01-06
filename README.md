@@ -6,12 +6,12 @@
 
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/cronte001"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=cronte001&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/cronte001"><img title="cronte001" src="https://github-readme-stats.vercel.app/api?username=cronte001&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
 <a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/cronte001-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src=""></a>
 </p>
 
 <p align="center">
